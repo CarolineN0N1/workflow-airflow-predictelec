@@ -1,0 +1,12 @@
+# Secrets
+.env
+# Logs Airflow
+logs/
+# Python
+__pycache__/ *.pyc
+# IDE
+.vscode/ .idea/
+# Airflow
+airflow.cfg webserver_config.py
+# OS
+.DS_Store
